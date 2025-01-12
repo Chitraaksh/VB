@@ -1,0 +1,16 @@
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.exe
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.deps.json
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.runtimeconfig.json
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.dll
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.pdb
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.Form1.resources
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.vbproj.GenerateResource.cache
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.AssemblyInfo.vb
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.dll
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\refint\SimpleCalculator.dll
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.pdb
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.genruntimeconfig.cache
+C:\Users\Chitraaksh\source\repos\SimpleCalculator\obj\Debug\net8.0-windows\ref\SimpleCalculator.dll
